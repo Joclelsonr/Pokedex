@@ -3,7 +3,6 @@
 Nome dos integrantes: 
 - Joclelson Rodrigues
 - Daniel Andrade
-- Fabiano
 
 Link do Surge: https://jumbled-swing.surge.sh/
 
